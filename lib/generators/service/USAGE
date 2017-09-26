@@ -1,0 +1,10 @@
+Description:
+    Create a new service.
+
+Example:
+    rails generate service Notify
+
+    This will create:
+        app/services/notify_service.rb
+        spec/services/notify_service_spec.rb
+
